@@ -5,3 +5,6 @@ target/
 *.ipr
 *.iws
 .DS_Store
+.metals
+.bloop
+.ctags

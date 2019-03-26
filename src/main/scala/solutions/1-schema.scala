@@ -158,7 +158,7 @@ trait SchemaFToDataTypeAlgebras {
 /**
   * Everything looks nice, but don't you feel we are missing something?
   *
-  * I mean, think about it for a minute and meet me 20 lines bellow.
+  * I mean, think about it for a minute and meet me 20 lines below.
   *
   *
   *
